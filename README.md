@@ -14,18 +14,37 @@ Below is a list of the patterns and sections included:
 Introduction
 
 Singleton
-Prototype, Factory Method, Abstract Factory, Structural Wrappers
+
+Prototype
+
+Factory Method
+
+Abstract Factory
+
+Structural Wrappers
+
 Adapter
+
 Bridge
+
 Proxy
+
 Facade
+
 Decorator
+
 Composite
+
 Template Method
+
 State
+
 Strategy
+
 Observer
+
 Command
+
 Iterator
 
 CheatSheet
