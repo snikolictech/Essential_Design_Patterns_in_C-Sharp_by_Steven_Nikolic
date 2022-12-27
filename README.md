@@ -13,11 +13,7 @@ Below is a list of the patterns and sections included:
 
 Introduction
 
-Singleton
-Prototype
-Factory Method
-Abstract Factory
-Structural Wrappers
+Singleton, Prototype, Factory Method, Abstract Factory, Structural Wrappers
 Adapter
 Bridge
 Proxy
