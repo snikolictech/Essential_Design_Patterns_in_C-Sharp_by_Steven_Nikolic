@@ -9,6 +9,7 @@ The book is structured as lessons you can take in sequential order: progressing 
 
 Or it can be used as an ad hoc reference, with a handy table of contents and cheatsheet.
 
+
 Below is a list of the patterns and sections included:
 
 Introduction
